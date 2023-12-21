@@ -1,0 +1,1 @@
+this is a sample for circu breaker and it is ued when your application in dwon and you do not want that client sedn request to the down service becuase of the netwrok or the avaiability of the service is temporary.
